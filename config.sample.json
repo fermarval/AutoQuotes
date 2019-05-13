@@ -1,0 +1,17 @@
+{
+	"ig_username": "USERNAME",
+	"ig_password": "PASSWORD", 
+    "client_id": "UNSPASH-APP-ACCESS-KEY", 
+    "client_secret": "UNSPASH-ADD-SECRET-KEY",
+    "topic" : "OFFICE",
+    "index": 0, 
+    "code": "", 
+    "timeout": 60, 
+    "tags": [
+        "ADD",
+        "TAGS",
+        "HERE"
+    ], 
+ 
+    
+}
